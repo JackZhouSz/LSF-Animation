@@ -2,7 +2,7 @@
 name: transformer_predictor
 
 # 确保路径正确，且与 Python 文件和类名对应
-_target_: framework.model.feature_predictor.transformer_pred_official.TransformerPredictor
+_target_: framework.model.feature_predictor.transformer_pred.TransformerPredictor
 
 # Transformer 模型的超参数，根据模型实现需要调整
 latent_dim: 256            # 输入特征的维度
