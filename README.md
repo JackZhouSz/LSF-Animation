@@ -282,17 +282,12 @@ python render_vert.py result_folder=diffusion/results/generation audio_folder=re
 If you find the code useful for your work, please consider starring this repository and citing it:
 ```
 @inproceedings{lu2025lsf,
-        author = {Lu, Xin and Zhuang, Chuanqing and Jin, Chenxi and Lu, Zhengda and Wang, Yiqun and Liu, Wu and Xiao, Jun},
-        title = {LSF-Animation: Label-Free Speech-Driven Facial Animation via Implicit Feature Representation},
-        booktitle = {Proceedings of the 2025 ACM SIGGRAPH Asia Conference},
-        year = {2025},
-        location = {Hong Kong, Hong Kong},
-        pages = {1--12},
-        url = {https://doi.org/10.1145/3757377.3763887},
-        doi = {10.1145/3757377.3763887},
-        publisher = {ACM},
-        address = {New York, NY, USA}
-        } 
+  title={LSF-Animation: Label-Free Speech-Driven Facial Animation via Implicit Feature Representation},
+  author={Lu, Xin and Zhuang, Chuanqing and Jin, Chenxi and Lu, Zhengda and Wang, Yiqun and Liu, Wu and Xiao, Jun},
+  booktitle={Proceedings of the SIGGRAPH Asia 2025 Conference Papers},
+  pages={1--12},
+  year={2025}
+} 
 
 ```
 
